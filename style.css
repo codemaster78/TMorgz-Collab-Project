@@ -1,0 +1,108 @@
+h1{
+  font-family: minecraft;
+  text-shadow: 3px 3px #151515;
+  color: #9e9e9e;
+  font-size: 50px;
+  position: relative;
+  right: 50px;
+}
+
+body{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #477A1E;
+  cursor: url('Cursor.png') 64 64, auto;
+}
+p{
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  background-color: #854F2B;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px 0;
+  padding: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 1px solid #999999;
+  font-family: MinecraftiaRegular;
+}
+.funfact {
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  background-color: #854F2B;
+  text-align: left;
+  display: inline-block;
+  width: 125px;
+  border: 1px solid #999999;
+  font-family: MinecraftiaRegular;
+  position: relative;
+  height:350px;
+}
+.logo{
+  position: relative;
+  bottom: 25px;
+}
+.logo1{
+  position: relative;
+  bottom: 110px;
+}
+.fact-area {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 20px;
+  height:300px;
+}
+
+.text2 {
+  position: static;  /* remove absolute positioning */
+  width: 1400px;      /* pick any width you like */
+  height:305px;
+  padding-top: 60px;
+}
+.media1{
+  width: 40%;
+  height: 40%;
+  padding-left: 650px;
+  padding-top: 25px;
+  position: relative;
+  bottom:175px;
+}
+ul{  
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  background-color: #854F2B;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px 0;
+  padding: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 1px solid #999999;
+  font-family: MinecraftiaRegular;
+  padding-left: 50px;
+  text-align: left;
+  margin-right:800px;
+}
+.stats{
+  padding-left: 125px;
+}
+table{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  background-color: #854F2B;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px 0;
+  padding: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 1px solid #999999;
+  font-family: MinecraftiaRegular;
+  padding-left: 68px;
+  padding-right: 68px;
+}
+
+.media2{
+  width:50%;
+  height: 50%;
+  padding-left: 650px;
+  position: relative;
+  bottom:430px;
+}
